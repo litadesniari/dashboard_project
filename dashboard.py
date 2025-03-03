@@ -138,4 +138,4 @@ ax5.grid(axis='y', linestyle='--', alpha=0.7)
 st.pyplot(fig5)
 
 # **Footer**
-st.caption("Sumber Data: day_clean.csv dan hour_clean.csv | Dashboard Analysis by Saniskalita, 2025")
+st.caption("Sumber Data: day_clean.csv dan hour_clean.csv | Dashboard Analysis by Saniskalita MC-52, 2025")
