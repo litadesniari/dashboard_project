@@ -20,7 +20,7 @@ day_df, hour_df = load_data()
 
 # gambar sepeda
 image = Image.open("bike.png")
-st.sidebar.image(image, use_container_width=True)
+st.sidebar.image(image, width=200)
 
 # Sidebar Filters
 st.sidebar.header(" Filter Data")
